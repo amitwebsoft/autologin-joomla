@@ -1,0 +1,1 @@
+Its a Joomla Plugin which can be used to auto loging a user after Registration
